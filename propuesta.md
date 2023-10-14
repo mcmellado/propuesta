@@ -21,7 +21,7 @@ Por ejemplo:
 * Objetivo: "Facilitar a los usuarios la exploración, reserva y evaluación de restaurantes así como la interacción con otros usuarios y una administración de sus perfiles, proporcionando una experiencia de descubirmiento gastronómico y social en la plataforma web. ".
 * Casos de uso: 
 
-- Invitado (usuario no logueado):
+Invitado (usuario no logueado):
 
 * Registrarse.
 * Ver catálogo de restaurantes.
@@ -29,7 +29,7 @@ Por ejemplo:
 * Realizar una búsqueda de restaurantes.
 * Ver comentarios y calificaciones de restaurantes.
 
-- Usuario Logueado:
+Usuario Logueado:
 
 * Iniciar sesión.
 * Reservar mesa en un restaurante.
@@ -42,7 +42,7 @@ Por ejemplo:
 * Eliminar contacto.
 * Bloquear contacto.
 
-- Administrador: 
+Administrador: 
 
 * Validar o bloquear usuarios.
 * Crear un nuevo restaurante.
